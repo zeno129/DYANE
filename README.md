@@ -5,9 +5,9 @@ DYANE: DYnamic Attributed Node rolEs Generative Model (CIKM 2023)
 Full documentation will be added soon.
 
 ## Paper
-**PDF:** [DYANE: DYnamic Attributed Node RolEs Generative Model](paper/CIKM_2023-DYANE-GZeno.pdf) 
-**Video:** [CIKM 2023 (ACM DL)](https://dl.acm.org/doi/10.1145/3583780.3614858) 
-**Authors:** Giselle Zeno, Jennifer Neville 
+**PDF:** [DYANE: DYnamic Attributed Node RolEs Generative Model](paper/CIKM_2023-DYANE-GZeno.pdf)   
+**Video:** [CIKM 2023 (ACM DL)](https://dl.acm.org/doi/10.1145/3583780.3614858)  
+**Authors:** Giselle Zeno and Jennifer Neville 
 
 ### Citation
 If you use this code, please cite:
