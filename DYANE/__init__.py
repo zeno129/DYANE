@@ -1,2 +1,2 @@
 from .components import *
-from .scripts import *
+# from .scripts import *
